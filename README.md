@@ -25,7 +25,7 @@ For testing the project, just import battleship folder in VS Code:
 
 ### Connection
 
-After setting up the server (1 - for connecting, 2 - for showing server ip)
+After starting up the server (1 - for connecting, 2 - for showing server ip)
 
 ![server](img/server.png)
 
