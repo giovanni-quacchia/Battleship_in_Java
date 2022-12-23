@@ -68,3 +68,9 @@ Furthermore, users can communicate using the chat, where events are also shown.
 - Before starting the match, player can use RANDOM POSITIONING button for setting up the ships randomly.
 - When one of the user disconnects from the Server, the other player is advised with an alert and match ends.
 - All clients' operations (connect, disconnect, game events, messages) are stored in res/txt/logs.txt file and the server can view them using PRINT ALL USERS OPERATIONS (4) command.
+
+## Credits
+
+### Icons
+
+[Battleship icons created by iconixar](https://www.flaticon.com/free-icon/ship_3939752?term=battleship&page=1&position=9&origin=tag&related_id=3939752) 
