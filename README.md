@@ -27,7 +27,7 @@ For testing the project, just import battleship folder in VS Code:
 
 After setting up the server (1 - for connecting, 2 - for showing server ip)
 
-![server](img/server.jpg)
+![server](img/server.png)
 
 Users can connect using server ip. (After signing up, users are saved from the Server into res/txt/users.txt as username;password)
 
