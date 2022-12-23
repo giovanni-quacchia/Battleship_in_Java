@@ -31,9 +31,9 @@ After setting up the server (1 - for connecting, 2 - for showing server ip)
 
 Users can connect using server ip. (After signing up, users are saved from the Server into res/txt/users.txt as username;password)
 
-![menu](menu.jpg)
+![menu](img/menu.jpg)
 
-![login](login.jpg)
+![login](img/login.jpg)
 
 ### Starting a new match
 
@@ -41,7 +41,7 @@ After login, each user can send a request for playing to another user for starti
 
 (Select the user's nickname you want to play with and click on play. If the other user accepts your request, the match starts)
 
-![users online](users.jpg)
+![users online](img/users.jpg)
 
 ### Managing ships position
 
@@ -51,17 +51,17 @@ Now, each user can manage his ships position:
 - **left click again** to confirm the new position
 - **right click** for turning the ship
 
-![dashboard](dashboard.jpg)
+![dashboard](img/dashboard.jpg)
 
 After each user has clicked on START, game starts and every user can send attacks to the opponent, by clicking on the opponent grid.
 
-![match](match.jpg)
+![match](img/match.jpg)
 
 Game ends when the ships of one of the two are sunk all.
 
 Furthermore, users can communicate using the chat, where events are also shown.
 
-![chat](chat.jpg)
+![chat](img/chat.jpg)
 
 ### Additional features
 
