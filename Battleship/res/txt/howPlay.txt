@@ -1,5 +1,0 @@
-How to play the classic board game Battleship:
-Set up the game: Each player will need their own board and set of ships. Each player should place their ships on their board, making sure that the ships are not overlapping and are placed within the designated area. The ships can be placed horizontally or vertically.
-Take turns: On each turn, a player will announce a coordinate on their opponent's board (e.g. "A5") and their opponent will announce whether or not the shot was a hit or a miss. If the shot was a hit, the player should mark the spot on its board with a red block. If the shot was a miss, the player should mark the spot with a cross.
-Sink ships: The goal of the game is to sink all of your opponent's ships before they sink all of yours. When a player hits one of their opponent's ships, they can continue to take shots at that ship until they sink it. Once a ship is sunk, the player should announce which ship has been sunk and mark the sunken ship on their board.
-Win the game: The game is won when one player sinks all of their opponent's ships.
