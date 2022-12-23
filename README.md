@@ -84,3 +84,8 @@ Furthermore, users can communicate using the chat, where events are also shown.
 [Error icon created by Ilham Fitrotul Hayat](https://www.flaticon.com/free-icon/cross_2569174?term=error&page=1&position=3&origin=search&related_id=2569174)
 
 [Send icon created by Freepik](https://www.flaticon.com/free-icon/send_786407?term=send&page=1&position=21&origin=search&related_id=786407)
+
+## License
+
+[GNU General Public License v3.0](LICENSE)
+
