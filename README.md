@@ -73,4 +73,14 @@ Furthermore, users can communicate using the chat, where events are also shown.
 
 ### Icons
 
-[Battleship icons created by iconixar](https://www.flaticon.com/free-icon/ship_3939752?term=battleship&page=1&position=9&origin=tag&related_id=3939752) 
+[Battleship icon created by iconixar](https://www.flaticon.com/free-icon/ship_3939752?term=battleship&page=1&position=9&origin=tag&related_id=3939752) 
+
+[User icon created by Freepik](https://www.flaticon.com/free-icon/user_456212?term=user&page=1&position=2&origin=search&related_id=456212)
+
+[Info icon created by Freepik](https://www.flaticon.com/free-icon/info_471662?term=info&page=1&position=4&origin=search&related_id=471662)
+
+[Battleship icon created by smashingstocks](https://www.flaticon.com/free-icon/battleship_6175141?term=battleship&page=1&position=2&origin=search&related_id=6175141)
+
+[Error icon created by Ilham Fitrotul Hayat](https://www.flaticon.com/free-icon/cross_2569174?term=error&page=1&position=3&origin=search&related_id=2569174)
+
+[Send icon created by Freepik](https://www.flaticon.com/free-icon/send_786407?term=send&page=1&position=21&origin=search&related_id=786407)
