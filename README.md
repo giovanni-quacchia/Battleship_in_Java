@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="lS96Tqe_vzIGXqr9nlQDWyNqdo3u6sR7ej-9w0XE8oo" />
+
 # `<Battleship in Java>`
 
 ## Description
