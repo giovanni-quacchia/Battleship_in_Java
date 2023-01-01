@@ -1,5 +1,3 @@
-<meta name="google-site-verification" content="INBb9H70zb0cDkqgBLAYtuwQSwrtc07yNG8tFwr8fNQ" />
-
 # `<Battleship in Java>`
 
 ## Description
